@@ -34,4 +34,4 @@ form.addEventListener("submit", function (event) {
   input.value = "";
   input.focus();
   updateCount();
-});
+});s
